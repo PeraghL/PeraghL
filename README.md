@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-![PeraghL GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical)  
+![PeraghL](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEINUSERNAME&theme=radical)
+![PeraghL](https://github-readme-streak-stats.herokuapp.com/?user=DEINUSERNAME&theme=radical)
 
 
 ⭐️ From [PeraghL](https://github.com/DEINUSERNAME)
