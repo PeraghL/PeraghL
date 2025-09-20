@@ -22,5 +22,8 @@
 
 ![Github Strak](https://github-readme-streak-stats.herokuapp.com/?user=PeraghL&theme=radical)
 
+## 🌍 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/offcxl_samir)
+
 
 ⭐️ From [PeraghL](https://github.com/DEINUSERNAME)
