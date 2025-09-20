@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, ich bin Samir
 
-<!--
-**PeraghL/PeraghL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;Always+Learning+New+Things)
 
-Here are some ideas to get you started:
+## 🚀 Über mich
+- 💻 Hobby Entwickler
+- 🌱 Ich lerne aktuell HTML, CSS, JS & Python
+- 🎯 Ziel: Coole Open-Source Projekte starten
+- ⚡ Fun Fact: Kaffee ☕ ist mein zweiter Compiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### 🔹 Sprachen & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![PeraghL GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEINUSERNAME&theme=radical)
+
+
+⭐️ From [PeraghL](https://github.com/DEINUSERNAME)
