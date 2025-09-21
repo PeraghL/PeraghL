@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Samir
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Open-Source+Enthusiast;Always+Learning+New+Things)
 
 ## 🚀 Über mich
 - 💻 Hobby Entwickler
