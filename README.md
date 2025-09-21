@@ -26,4 +26,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/offcxl_samir)
 
 
-⭐️ From [PeraghL](https://github.com/DEINUSERNAME)
+⭐️ From [PeraghL](https://github.com/PeraghL)
